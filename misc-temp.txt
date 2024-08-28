@@ -1,3 +1,5 @@
+#####  (Tested and works well on Windows 10 PC - 2024-Aug)
+
 # Useful references:
 #
 # https://superuser.com/questions/992511/emulate-a-keyboard-button-via-the-command-line
